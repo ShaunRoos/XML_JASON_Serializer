@@ -1,0 +1,10 @@
+C:\Users\ShaunR\source\repos\SerializingApp_01\SerializingApp_01\bin\Debug\SerializingApp_01.exe.config
+C:\Users\ShaunR\source\repos\SerializingApp_01\SerializingApp_01\bin\Debug\SerializingApp_01.exe
+C:\Users\ShaunR\source\repos\SerializingApp_01\SerializingApp_01\bin\Debug\SerializingApp_01.pdb
+C:\Users\ShaunR\source\repos\SerializingApp_01\SerializingApp_01\obj\Debug\SerializingApp_01.csprojAssemblyReference.cache
+C:\Users\ShaunR\source\repos\SerializingApp_01\SerializingApp_01\obj\Debug\SerializingApp_01.Form1.resources
+C:\Users\ShaunR\source\repos\SerializingApp_01\SerializingApp_01\obj\Debug\SerializingApp_01.Properties.Resources.resources
+C:\Users\ShaunR\source\repos\SerializingApp_01\SerializingApp_01\obj\Debug\SerializingApp_01.csproj.GenerateResource.cache
+C:\Users\ShaunR\source\repos\SerializingApp_01\SerializingApp_01\obj\Debug\SerializingApp_01.csproj.CoreCompileInputs.cache
+C:\Users\ShaunR\source\repos\SerializingApp_01\SerializingApp_01\obj\Debug\SerializingApp_01.exe
+C:\Users\ShaunR\source\repos\SerializingApp_01\SerializingApp_01\obj\Debug\SerializingApp_01.pdb
